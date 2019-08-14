@@ -1,0 +1,6 @@
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\obj\Debug\UEFIWriteCShasp.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\obj\Debug\UEFIWriteCShasp.csprojAssemblyReference.cache
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\bin\Debug\UEFIWriteCShasp.exe
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\bin\Debug\UEFIWriteCShasp.pdb
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\obj\Debug\UEFIWriteCShasp.exe
+C:\Users\Mickey\Downloads\UEFIWriteCSharp-master\UEFIWriteCShasp\obj\Debug\UEFIWriteCShasp.pdb

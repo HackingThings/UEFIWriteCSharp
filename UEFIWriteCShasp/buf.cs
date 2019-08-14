@@ -8,7 +8,7 @@ namespace UEFIWriteCShasp
 {
     class buf
     {
-        A test to see if the program haults with INT3 when it executes the firmware variable 
+        //A test to see if the program haults with INT3 when it executes the firmware variable 
         public static byte[] buffer = new byte[]
         {
             0xc3, 0xc3, 0xc3
